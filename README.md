@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jai-Pradhiksha
+- 👋 Hello all, I’m @Jai-Pradhiksha
 - 👀 I’m interested in making my brains on programme 
-- 🌱 I’m currently learning C language 
-- 💞️ I’m looking to collaborate on some interesting projects
+- 🌱 Currently learning JAVA 
+- 💞️ Looking to collaborate on some interesting projects
 - 📫 To reach me, mail me on pradhikshajai@gmail.com 
 
 <!---

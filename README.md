@@ -1,7 +1,16 @@
-- 👋 Hello all, I’m @Jai-Pradhiksha
-- 👀 I’m interested in making my brains on programme 
-- 🌱 Currently learning JAVA 
-- 💞️ Looking to collaborate on some interesting projects
+Hey :) This is Jai Pradhiksha, here's a bit about me...
+
+ • B.E. CSE at Saveetha Engineering College 🎓
+ • Frontend developer ⚛️
+ • Django and ML 💻
+ • Regular Hackathon routine 🏁
+ • Azure & IoT certified 🎖️
+ • Orator - ICT Youth Talk 2023 🎤
+ • Exhibit leadership 🏆
+
+📌 Seeking internships to learn, grow, and give my contribution through technology.
+
+🧭 Ready to crack code and sculpt solutions, by bridging logic and imagination byte by byte.
 - 📫 To reach me, mail me on pradhikshajai@gmail.com 
 
 <!---
